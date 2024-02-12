@@ -1,0 +1,2 @@
+Information about COMP2156 DevOps Course
+COMP2156 DevOps for System Administration is a fourth semester class in the School of computer technology, focused on procedures protocols and best practices that a DevOps engineer brings to a workplace
