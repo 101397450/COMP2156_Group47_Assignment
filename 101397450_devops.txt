@@ -1,2 +1,6 @@
 Information about COMP2156 DevOps Course
+
 COMP2156 DevOps for System Administration is a fourth semester class in the School of computer technology, focused on procedures protocols and best practices that a DevOps engineer brings to a workplace
+The class is delivered twice a week, two hours per session. One session is a lecture and the other session is a lab, ie theory and practice
+The professor teaching the course is Pritesh Patel
+Evaluation consists of multiple quizzes, labs, assignments and midterm and final exam
