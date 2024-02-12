@@ -1,2 +1,5 @@
 Information about Software Development Cycle
+
 The software development lifecycle (SDLC) is the cost effective and time efficient process that development teams use to design and build high quality software
+DevOps is a methodology in software development and the IT industry.
+DevOps integrates and automates the work of software development and IT operations
